@@ -48,7 +48,7 @@ export class HbnbSearchResults extends HTMLElement {
             `;
         }
 
-        listings += `<ul class="listings">`;
+        listings += `</ul>`;
 
         HbnbSearchResults.self.innerHTML = listings;
     }
