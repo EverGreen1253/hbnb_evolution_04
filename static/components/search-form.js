@@ -36,7 +36,7 @@ export class HbnbSearchForm extends HTMLElement {
                     </div>
                 </div>
                 <div class="search">
-                    <button id="btn-menu-search" type="submit">Search &raquo;</button>
+                    <button id="btn-menu-search">Search &raquo;</button>
                 </div>
             </div>
         `;

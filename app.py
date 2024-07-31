@@ -45,7 +45,7 @@ def results():
     # print(country_city_places)
 
     # artificial delay to let you see the loader in the frontend
-    time.sleep(0.5)
+    time.sleep(0.2)
 
     return jsonify({
         "data": country_city_places
